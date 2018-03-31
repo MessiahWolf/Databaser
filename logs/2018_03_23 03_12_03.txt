@@ -1,0 +1,15 @@
+Stream connection opened with device: 98D331FB726A
+-> GR_INIT:2018:03:23 03:04:29 
+[2018:03:23 03:04:30]: Dumped 0 reports.
+-> GR_RC?
+[2018:03:23 03:06:02]: 0
+-> GR_UP?
+[2018:03:23 03:07:06]: Awake for 38 minutes and 37 seconds.
+-> GR_RD?
+[2018:03:23 03:09:58]: Reporting with 60 seconds (1.00 min) delay.
+-> GR_SRD=30
+[2018:03:23 03:10:55]: Now reporting with 30 seconds (0.50 min) delay.
+-> GR_SAR=true
+[2018:03:23 03:11:12]: Automatic reporting started with 30 second(s) delay.
+[2018:03:23 03:11:25]: GR_AUTO:27:49
+[2018:03:23 03:11:55]: GR_AUTO:27:48
